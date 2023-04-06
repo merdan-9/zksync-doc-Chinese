@@ -1,11 +1,13 @@
 # zkSync project architecture 项目架构
 
 This document covers the structure of this repository.
+
 本文介绍了zkSync代码库的结构。
 
 ## High-Level Overview 总体概述
 
 zkSync repository consists of several applications:
+
 zkSync代码库由以下几个应用程序组成：
 
 - zkSync smart contract: a Solidity smart contract deployed on the Ethereum blockchain, which manages users' balances and verifies the correctness of operations performed within zkSync network.

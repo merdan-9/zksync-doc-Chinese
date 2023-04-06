@@ -11,6 +11,7 @@ The contract must be deployed specifying the initial ("genesis") state root hash
 ## Governance 治理
 
 Governance of the network will be excerised from a separate contract registered in the ZKSync contract as `networkGovernor`. It has the power to:
+
 网络的治理将从在ZKSync合约中注册的单独合约中进行，称为`networkGovernor`。它有以下权限：
 - Change the set of validators.
 - 更改验证器集合。
